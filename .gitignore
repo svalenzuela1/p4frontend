@@ -2,6 +2,12 @@
 node_modules
 /dist
 
+#ignore vue stuff for now
+/public
+/src
+
+# should work
+
 
 # local env files
 .env.local
